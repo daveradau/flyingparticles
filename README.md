@@ -17,8 +17,8 @@ I used my mac book camera to capture movements while creating graphical elements
 <p>
 #Result
 *Video:*
-<p>http://instagram.com/p/rH5XE1hBnc/
+http://instagram.com/p/rH5XE1hBnc/
 Unfortunately the result doesn't work within the browser so I created a version, which uses the mouse instead, too.
 <p>
 *Variation with mouse:*
-<p>http://www.openprocessing.org/sketch/156054
+http://www.openprocessing.org/sketch/156054
